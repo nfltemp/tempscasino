@@ -1,4 +1,7 @@
 # 🎰 Temp's Casino & Entertainment Hub
+![Desktop Screenshot 2024 10 29 - 16 24 56 43](https://github.com/user-attachments/assets/3028fc4f-52b5-45a7-9a55-d58938c07088)
+
+![2233](https://github.com/user-attachments/assets/965eb57a-4fd1-4e95-ad5f-2d2023075391)
 
 A comprehensive casino and entertainment system for FiveM servers featuring blackjack, dynamic AI NPCs, and an integrated shop system.
 
